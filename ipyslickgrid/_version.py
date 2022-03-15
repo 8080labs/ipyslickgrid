@@ -7,4 +7,4 @@
 # beta example: 0.0.3b
 # release candidate: 0.0.3rc
 # final release: 0.0.3
-__version__ = "0.0.3"
+__version__ = "0.0.4"
